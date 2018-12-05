@@ -21,6 +21,8 @@
     NativeConnector *nativeConnector = [[NativeConnector alloc] init];
     [[Router sharedRouter] registerConnector:nativeConnector forScheme:@"chatApp"];
     
+    
+    
     return YES;
 }
 

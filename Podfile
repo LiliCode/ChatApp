@@ -7,6 +7,5 @@ target 'ChatApp' do
 
   pod 'Router', :git => 'https://github.com/LiliCode/Router-objc.git'
   pod 'Chat', :git => 'https://github.com/LiliCode/Chat-UI.git'
-  pod 'ICSDrawerController', :git  => 'https://github.com/LiliCode/DrawerController.git'
 
 end
